@@ -4,7 +4,7 @@ import Symptoms from './components/symptoms';
 import Prescription from './components/prescription';
 
 class App extends Component{
-    
+    //constructor
     constructor(props){
         super(props);
         
