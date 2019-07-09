@@ -1,0 +1,16 @@
+.symptom-div{
+  width: 30%;
+  float: left;
+  text-align: left;
+}
+
+.prescription-div{
+  width: 70%;
+  float: left;
+  text-align: left;
+}
+
+.header{
+  text-align: center;
+  padding: 50px;
+}
